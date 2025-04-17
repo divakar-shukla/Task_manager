@@ -1,0 +1,11 @@
+# Ignore all .env files
+.env
+
+# Ignore all log files
+*.log
+
+# Ignore a specific file
+secret-config.js
+
+# Ignore everything in temp folder
+temp/
